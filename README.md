@@ -14,6 +14,8 @@ Attrition Rate: 17%
 The dashboard highlights workforce dynamics across multiple dimensions such as age, gender, education, department, business travel, and job performance.
 
 ## Dashboard
+- <a href="https://github.com/edifoninigodwin/Excel-HR-attrition-analysis-dashboard/blob/main/HR%20attrition%20dashboard%201.jpg">Dashboard1</a>
+- <a href="https://github.com/edifoninigodwin/Excel-HR-attrition-analysis-dashboard/blob/main/HR%20attrition%20dashboard%202.jpg">Dashboard2</a>
 
 
 ## Key Insights from the Analysis
